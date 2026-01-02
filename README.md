@@ -1,4 +1,4 @@
-# Telefon Numarası Bilgi Uygulaması
+# Telefon Numarası TR'de geçerli mi?
 
 ## Kullanılan API
 NumberVerify API
