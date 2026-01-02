@@ -1,0 +1,87 @@
+@font-face {
+  font-family: font;
+  src: url(font/PORKYS_.TTF);
+}
+
+body {
+    font-family: font;
+    margin: 20px;
+    text-align: center;
+    font-weight: lighter;
+    background: linear-gradient(to right, #5E891B, #5F5AA5, #B8D062, #BAACEB);
+}
+
+.baslik {
+    margin-bottom: 100px;
+    color: #FFFFFF;
+    background-color: #BAACEB;
+    border: 10px solid;
+    border-color: #B8D062;
+    border-radius: 15px;
+    width: 500px;
+    margin-left: 485px;
+}
+
+.arama {
+    color: #FFFFFF;
+    background-color: #5F5AA5;
+    border: 10px solid;
+    border-color: #5E891B;
+    border-radius: 15px;
+    width: 500px;
+    margin-left: 485px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.arama input {
+    border-radius: 10px;
+    text-align: center;
+    font-family: font;
+}
+
+.arama button {
+    color: #FFFFFF;
+    background-color: #000000;
+    border-radius: 10px;
+    margin-top: 5px;
+    font-family: font;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.arama button:hover {
+    color: #000000;
+    background-color: #FFFFFF;
+}
+
+#sonuc {
+    border: 1px solid #ccc;
+    padding: 10px;
+    width: 200px;
+    color: #FFFFFF;
+    background-color: #BAACEB;
+    border: 10px solid;
+    border-color: #B8D062;
+    border-radius: 15px;
+    width: 500px;
+    margin-top: 50px;
+    margin-left: 485px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    font-weight: bolder;
+    font-size: medium;
+}
+
+footer {
+    margin-top: 100px;
+    color: #FFFFFF;
+    background-color: #5F5AA5;
+    border: 10px solid;
+    border-color: #5E891B;
+    border-radius: 15px;
+    width: 500px;
+    margin-left: 485px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
